@@ -22,17 +22,18 @@ Data is stored as 16-bit integer values.
 (g) Use an 11x11 median filter on the 2D data set.
 
 # Output
-The output for the subtasks for (a) is mean_and_variance.txt
+The output for the subtasks for (a) is profile_line_slice150.png
 
 The output for the subtasks for (b) is mean_and_variance.txt  
 
 The output for the subtasks for (c) is histrogram_slice150.png
 
-The output for the subtasks for (d) is mean_and_variance.txt
+The output for the subtasks for (d) is linear_slice150.png
 
-The output for the subtasks for (e) is mean_and_variance.txt
+The output for the subtasks for (e) is nonLinear_slice150.png
 
 The output for the subtasks for (f) is boxcar_smoothing_slice150.png
 
-The output for the subtasks for (g) is mean_and_variance.txt
+The output for the subtasks for (g) is median_filter_slice150.png
+
 
