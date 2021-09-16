@@ -2,6 +2,16 @@
 Exercise on 2d Spatial Data, Histogram, Transfer Function, Filter
 
 This is an exercise on how to manipulate 2d Spatial Data. 
+# Installation
+Please install needed packages:
+
+pip install numpy
+pip install matplotlib
+# How to run the code
+You can run project in this way:
+
+python slice150.py
+
 # Dataset
 The data consider is one slice of a CT angiographic scan. You can find it in the repository (slice150.raw). Data set and descriptions
 (TermsOfUse_slice150.txt and DataCharacteristics_slice150.txt) are provided  as well.
