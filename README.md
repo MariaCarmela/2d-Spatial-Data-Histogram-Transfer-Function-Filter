@@ -23,9 +23,16 @@ Data is stored as 16-bit integer values.
 
 # Output
 The output for the subtasks for (a) is mean_and_variance.txt
-The output for the subtasks for (b) is mean_and_variance.txt  (d)-(g) 
+
+The output for the subtasks for (b) is mean_and_variance.txt  
+
 The output for the subtasks for (c) is mean_and_variance.txt
+
 The output for the subtasks for (d) is mean_and_variance.txt
+
 The output for the subtasks for (e) is mean_and_variance.txt
-The output for the subtasks for (f) is mean_and_variance.txt
+
+The output for the subtasks for (f) is boxcar_smoothing_slice150.png
+
 The output for the subtasks for (g) is mean_and_variance.txt
+
