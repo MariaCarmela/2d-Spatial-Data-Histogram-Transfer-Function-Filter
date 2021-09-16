@@ -8,7 +8,7 @@ Please install needed packages:
 pip install numpy
 pip install matplotlib
 # How to run the code
-You can run project in this way:
+You can run the project in this way:
 
 python slice150.py
 
