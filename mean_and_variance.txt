@@ -1,0 +1,3 @@
+Mean value is: 949.9877662658691
+
+Variance value is: 134932.47904059364
