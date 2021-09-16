@@ -26,7 +26,7 @@ The output for the subtasks for (a) is mean_and_variance.txt
 
 The output for the subtasks for (b) is mean_and_variance.txt  
 
-The output for the subtasks for (c) is mean_and_variance.txt
+The output for the subtasks for (c) is histrogram_slice150.png
 
 The output for the subtasks for (d) is mean_and_variance.txt
 
